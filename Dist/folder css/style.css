@@ -5,7 +5,7 @@
     cursor: pointer;
 }
 .hero{
-    background-image: linear-gradient(rgba(0, 0, 0,0.6)),url(../../Assets/assets/img/hero.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0,0.6)),url(../../Assets/assets/img/umrah.jpg);
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -24,7 +24,7 @@
     transition: all 0.5s ease;
 }
 .scrolling-active{
-    background-color: #0d6efd;
+    background-color: #25D366;
 }
 .service i{
     color: rgb(17, 146, 10);
@@ -41,4 +41,16 @@
 }
 .footer p{
     color: gray;
+}
+.about i{
+    color: #25D366;
+}
+.container-fluid{
+    background-color: #F8F8FF;
+}
+.container-fluid2{
+    margin-top: 50px;
+}
+.container-fluid2 .row{
+    margin-left: 350px;
 }
